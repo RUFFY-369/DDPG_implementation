@@ -1,6 +1,6 @@
 # DDPG:Deep Deterministic Policy Gradient_implementation
 
-This is a Tensorflow implementation of the 'Continuous control with Deep Reinforcement learning' paper
+This is a Tensorflow implementation of the 'Continuous control with Deep Reinforcement learning' paper(Both of the jupyter notebook and python script is used for the 'main' file)
 
 Paper: [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 
