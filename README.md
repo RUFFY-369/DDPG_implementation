@@ -8,3 +8,6 @@ Paper: [Continuous control with deep reinforcement learning](https://arxiv.org/a
 ![alt text](https://github.com/RUFFY-369/DDPG_implementation/blob/master/plots/pendulum_norm_ou_noise.png?raw=true)
 
 Note:In the title of the above plot,there should be '250 scores' instead of '100 scores'
+
+##### References
+[openai/baselines](https://github.com/openai/baselines/tree/master/baselines/ddpg)
