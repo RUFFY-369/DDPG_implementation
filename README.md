@@ -9,5 +9,4 @@ Paper: [Continuous control with deep reinforcement learning](https://arxiv.org/a
 
 Note:In the title of the above plot,there should be '250 scores' instead of '100 scores'
 
-##### References
-[openai/baselines](https://github.com/openai/baselines/tree/master/baselines/ddpg)
+#### References: [openai/baselines](https://github.com/openai/baselines/tree/master/baselines/ddpg)
